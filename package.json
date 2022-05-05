@@ -1,0 +1,17 @@
+{
+  "name": "kitt-interview-challenge-khadijat",
+  "version": "1.0.0",
+  "description": "kitt interview challenge",
+  "main": "pricing.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Khadijat Oyeleye",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "@babel/preset-env": "^7.17.10",
+    "babel-jest": "^28.0.3",
+    "jest": "^28.0.3"
+  }
+}
